@@ -1,6 +1,7 @@
 # Parent_Child_FastAPI
 
 This project is a practice of FastAPI aiming to improve backend development skills.
+
 ## Instructions To Run (for mac or linux):
 * You need ```Python3.7``` or above to run this. And also ```virtualenv``` is required if you wish to run this on a `pip` environment. You can also use `conda` environment as well.
 * First download the repository. <br>
@@ -15,3 +16,5 @@ This project is a practice of FastAPI aiming to improve backend development skil
 * To run the test program, type the following command:<br>
     1. ```python3 test_run.py``` <br>
     
+## Instructions to see the buildin docs of FASTAPI
+* Please go to the url ```localhost:8080/docs``` to see the api endpoints.
